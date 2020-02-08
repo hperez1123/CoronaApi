@@ -7,63 +7,56 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 User.create(
-firstName: 'Bob',
-lastName: 'Bobby',
 phoneNumber: '03120312',
+eMail: 'lars.feely123@gmail.com',
 longitude: -73.984124,
 latitude: 40.751305,
 status: false
 )
 
 User.create(
-firstName: 'Michael',
-lastName: 'Samson',
 phoneNumber: '45823023',
+eMail: 'theaznjason@hotmail.com',
 longitude: -73.927482,
 latitude: -73.984124,
 status: false
 )
 
 User.create(
-firstName: 'Ricky',
-lastName: 'Bobby',
 phoneNumber: '2325444',
+eMail: 'micromaster1990@outlook.com',
 longitude: -73.591919,
 latitude: 40.754629,
 status: true
 )
 
 User.create(
-firstName: 'Jafar',
-lastName: 'humza',
 phoneNumber: '5552828',
+eMail: 'cornell.beststudent1@cornell.edu',
 longitude: -73.891084,
 latitude: 40.638015,
 status: false
 )
 
 User.create(
-firstName: 'Jason',
-lastName: 'Wu',
 phoneNumber: '3829456',
+eMail: 'hackpro88@yahoo.com',
 longitude: -73.896573,
 latitude: 40.860653,
 status: false
 )
 
 User.create(
-firstName: 'Esteban',
-lastName: 'Estevez',
 phoneNumber: '28210895',
+eMail: 'nursedoc79@gmail.com',
 longitude: -73.320919,
 latitude: 40.769687,
 status: false
 )
 
 User.create(
-firstName: 'Richard',
-lastName: 'OConner',
 phoneNumber: '55508965',
+eMail: 'gen.assem1123@outlook.com',
 longitude: -74.243115,
 latitude: 40.661434,
 status: false
