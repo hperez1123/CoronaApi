@@ -10,8 +10,8 @@ User.create(
 firstName: 'Bob',
 lastName: 'Bobby',
 phoneNumber: '03120312',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -73.984124,
+latitude: 40.751305,
 status: false
 )
 
@@ -19,52 +19,52 @@ User.create(
 firstName: 'Michael',
 lastName: 'Samson',
 phoneNumber: '45823023',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -73.927482,
+latitude: -73.984124,
 status: false
 )
 
 User.create(
-firstName: 'fewfw',
+firstName: 'Ricky',
 lastName: 'Bobby',
 phoneNumber: '2325444',
-longitude: -3134.13,
-latitude:-4214.423,
-status: false
+longitude: -73.591919,
+latitude: 40.754629,
+status: true
 )
 
 User.create(
-firstName: 'Bob',
-lastName: 'Bobby',
+firstName: 'Jafar',
+lastName: 'humza',
 phoneNumber: '5552828',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -73.891084,
+latitude: 40.638015,
 status: false
 )
 
 User.create(
-firstName: 'Bob',
-lastName: 'Bobby',
+firstName: 'Jason',
+lastName: 'Wu',
 phoneNumber: '3829456',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -73.896573,
+latitude: 40.860653,
 status: false
 )
 
 User.create(
-firstName: 'Bob',
-lastName: 'Bobby',
+firstName: 'Esteban',
+lastName: 'Estevez',
 phoneNumber: '28210895',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -73.320919,
+latitude: 40.769687,
 status: false
 )
 
 User.create(
-firstName: 'Bob',
-lastName: 'Bobby',
+firstName: 'Richard',
+lastName: 'OConner',
 phoneNumber: '55508965',
-longitude: -3134.13,
-latitude:-4214.423,
+longitude: -74.243115,
+latitude: 40.661434,
 status: false
 )
