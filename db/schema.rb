@@ -16,11 +16,10 @@ ActiveRecord::Schema.define(version: 2020_02_08_205214) do
   enable_extension "plpgsql"
 
   create_table "users", force: :cascade do |t|
-    t.string "firstName"
-    t.string "lastName"
     t.string "phoneNumber"
-    t.integer "longitude"
-    t.integer "latitude"
+    t.string "eMail"
+    t.float "longitude"
+    t.float "latitude"
     t.boolean "status"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
