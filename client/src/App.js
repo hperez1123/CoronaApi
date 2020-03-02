@@ -59,7 +59,7 @@ getLocation() {
         {
           this.state.latitude && this.state.longitude ?
             <img src={`https://maps.googleapis.com/maps/api/staticmap?center=${this.state.latitude},${this.state.longitude}
-            &zoom=14&size=400x300&sensor=false&markers=color:red%7C${this.state.latitude},${this.state.longitude}&key=${`AIzaSyAnNnQTni-5DtGhczaaQoY9O4GOFOXsQBM`}`} alt="" />
+            &zoom=14&size=400x300&sensor=false&markers=color:blue%7C${this.state.latitude},${this.state.longitude}&key=${`AIzaSyAnNnQTni-5DtGhczaaQoY9O4GOFOXsQBM`}`} alt="" />
           :
           null
         }
